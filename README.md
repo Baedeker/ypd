@@ -6,3 +6,5 @@ The purpose of this application is to have a web-app to allow SO's to be able to
 - Schedule
 - Prayer needs
 - Visitation frequency (?)
+
+Richard's initial access. 
